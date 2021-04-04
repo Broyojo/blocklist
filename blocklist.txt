@@ -10,6 +10,5 @@ appspot.l.google.com
 app.snapchat.com
 data.flurry.com
 
-twitter.com
 facebook.com
 instagram.com
