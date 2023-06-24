@@ -10,9 +10,5 @@ appspot.l.google.com
 app.snapchat.com
 data.flurry.com
 
-# zuck
-facebook.com
-instagram.com
-
 # misc
 onlyfans.com
